@@ -13,4 +13,4 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Implementing different animations through out the page instead of one section to help it stand out more.
